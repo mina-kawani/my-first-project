@@ -1,0 +1,150 @@
+body {
+	margin: 0 auto;
+	text-decoration: none;
+
+		}
+	
+a {
+	text-decoration: none;
+}
+
+	
+header {
+    background-color: #ffffff;
+    margin: 0 auto;
+    width: 960px;
+    }
+	
+h1 {
+	font-size: 1em;
+    float: left;
+    clear: both;
+    font-weight: normal;
+    color: #664433;
+}	
+
+.top-seach {
+	float: right;
+	}
+
+header img {
+	 float: left;
+}
+	
+nav {
+    clear: both;
+    /*display:table;*/
+    margin:0 auto;    
+}
+
+li {
+	list-style: none;
+	}	
+
+header li {
+	color: #664433;
+	float: left;
+	margin-left:3em;
+	cursor: pointer;
+	display:table-cell;
+	}
+	
+header li.border-bar {
+	border-right: solid 2px rgba(102, 68, 51, 0.16);
+    padding-right: 2em;
+	}
+	
+div#wrapper {
+    background-color: #f5f5dd;
+    border-top: solid 2px rgba(102, 68, 51, 0.16);
+    margin-top: 2px;
+      }	
+	
+div#main {
+	width: 960px;
+	margin: 0 auto;
+	}
+
+.left-navi-h2::before {	
+	content: url(images/icon/dish.png);
+    position: relative;
+    top: 0.25em;
+    margin-right: 0.2em;
+    padding-left: 0.5em;
+}
+
+.left-navi-h2 {
+	color: #ffffff;
+    font-size: 20px;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    background-color: #99bb22;
+    display: flex;
+    
+}
+
+#left-navi-wrap {
+    width: 12em;
+    background-color: #ffffff;
+    padding-bottom: 1em;
+    padding-top: 0.2px;
+    margin-bottom: 1.5em;
+    margin-top: 1em;
+}
+
+.left-navi-top {
+    width: 10.5em;
+   }
+	
+.left-navi-li::before {	
+	content: url(images/icon/arrow.png);
+    position: relative;
+    margin-right: 0.2em;
+    }
+
+.left-navi-top li {
+		color: #000000;
+		border-bottom: 1px dashed #a0a0a0;
+		padding-bottom: 0.5em;
+        padding-top: 0.5em;
+}
+
+#left {
+	float: left;
+	margin-right: 20px;
+}
+
+.list li {
+	float: left;
+	display:table-cell;
+	
+	}
+	
+.main-center {
+    width: 500px;
+    background-color: white;
+    margin-left: 13em;
+  }	
+	
+.main-center li {
+	font-size: 10px;
+    color: black;
+    padding-left: 10px;
+    text-align: center;
+    }
+
+article h2 {
+	float: left;
+}
+
+header.struct form input[type="text"] {
+    width: 15em;
+    border: 1px solid #BDBDBD;
+    padding: 5px;
+}
+		
+.headerlogo {
+		float: left;
+}
+
+	
