@@ -11,6 +11,7 @@ body {
 	
 a {
 	text-decoration: none;
+	color: #664433;
 }
 
 	
@@ -224,6 +225,15 @@ div.article-coment p:first-child	 {
 	text-indent: 1em;
 }
 
+.article-coment p {
+    font-size: 12px;
+    padding-right: 1em;
+}
+
+section img {
+    padding-right: 1em;
+    padding-bottom: 8em;
+}
 
 /* aaaaa３*/  
 /* aaaaa*/ 
