@@ -227,6 +227,7 @@ div.article-coment p:first-child	 {
 
 .article-coment p {
     font-size: 12px;
+    padding-right: 1em;
 }
 
 section img {
