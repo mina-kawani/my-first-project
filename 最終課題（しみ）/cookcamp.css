@@ -235,7 +235,8 @@ section img {
     padding-bottom: 8em;
 }
 section p.link a {
-    color: #fba811;
+    color: #fc8833;
+    font-size: 14px;
   }
 
 section p.link a::before {
