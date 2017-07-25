@@ -234,6 +234,16 @@ section img {
     padding-right: 1em;
     padding-bottom: 8em;
 }
+section p.link a {
+    color: #fba811;
+  }
+
+section p.link a::before {
+    content: url(images/icon/arrow.png);
+    position: relative;
+    margin-right: 0.2em;
+}
+
 
 /* aaaaa３*/  
 /* aaaaa*/ 
