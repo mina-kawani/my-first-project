@@ -225,6 +225,9 @@ div.article-coment p:first-child	 {
 	text-indent: 1em;
 }
 
+.article-coment p {
+    font-size: 12px;
+}
 
 /* aaaaa３*/  
 /* aaaaa*/ 
